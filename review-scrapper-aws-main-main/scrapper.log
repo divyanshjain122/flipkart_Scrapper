@@ -1,0 +1,1116 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:26:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:26:13] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:26:13] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:26:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'uttam  sinha', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'product': 'iphone11', 'name': 'arpit patel', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger :OK_hand_light_skin_tone::OK_hand_light_skin_tone::OK_hand_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Akhil Bhugul', 'rating': '4', 'review_heading': 'Good quality product', 'review_full': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'product': 'iphone11', 'name': 'Siri Chandana Atluri', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'product': 'iphone11', 'name': 'Sameer Shaikh', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'product': 'iphone11', 'name': 'Vishal Hasija', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'It’s a beast, what a device... in love with it'}, {'product': 'iphone11', 'name': 'Sourabh Shah', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Nice very good phone'}, {'product': 'iphone11', 'name': 'Aravind Nath R', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'Camera and battery life s the best in this iPhone.. the os 13 very fluid .. one of the best products for Apple'}, {'product': 'iphone11', 'name': 'Aditya Mani', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'The best phone from apple loving it!'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'uttam  sinha', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'product': 'iphone11', 'name': 'arpit patel', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger :OK_hand_light_skin_tone::OK_hand_light_skin_tone::OK_hand_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Akhil Bhugul', 'rating': '4', 'review_heading': 'Good quality product', 'review_full': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'product': 'iphone11', 'name': 'Siri Chandana Atluri', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'product': 'iphone11', 'name': 'Sameer Shaikh', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'product': 'iphone11', 'name': 'Vishal Hasija', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'It’s a beast, what a device... in love with it'}, {'product': 'iphone11', 'name': 'Sourabh Shah', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Nice very good phone'}, {'product': 'iphone11', 'name': 'Aravind Nath R', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'Camera and battery life s the best in this iPhone.. the os 13 very fluid .. one of the best products for Apple'}, {'product': 'iphone11', 'name': 'Aditya Mani', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'The best phone from apple loving it!'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Ravi Tripathi', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Superb...'}, {'product': 'iphone11', 'name': 'kangba lovejoy pungding', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'I bought during the big billion sale. It’s worth every penny. First iOS user and overwhelmed. The photos are much better than my mirror less camera. If you got the budget, go for it..... Don’t think twice.'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Great'}, {'product': 'iphone11', 'name': 'Hitik Soni', 'rating': '5', 'review_heading': 'Excellent', 'review_full': 'very good phone no complains yetoutstanding camera the videos and pictures are very great'}, {'product': 'iphone11', 'name': 'Samarth tripathi', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Good performance & camera'}, {'product': 'iphone11', 'name': 'Amit Prakash', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Fast performance to previous iPhone xGood camera quality but the best part of night mode #killingI am already One-plus7Huge difference between in night mode                &iPhones 11 pro winsDisplay is also great in  #iPhone 11 proDisappointed —-You can’t be move your data android to iphone , Move to ios app not working in that case.iPhone change his USB type cable, You cant be charge your phone to power bank through this cable.... type c plug replaces USB plug'}, {'product': 'iphone11', 'name': 'shyam prakash', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Good product. Happy to buy it.'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'iPhone always rock, thanks Flipkart for such a good offer ..!!? 7star phone'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'Best apple phone I market :sign_of_the_horns_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'Awesome phone .. it makes you love it.. just go for it if you can afford it without second thoughts'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Ravi Tripathi', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Superb...'}, {'product': 'iphone11', 'name': 'kangba lovejoy pungding', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'I bought during the big billion sale. It’s worth every penny. First iOS user and overwhelmed. The photos are much better than my mirror less camera. If you got the budget, go for it..... Don’t think twice.'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Great'}, {'product': 'iphone11', 'name': 'Hitik Soni', 'rating': '5', 'review_heading': 'Excellent', 'review_full': 'very good phone no complains yetoutstanding camera the videos and pictures are very great'}, {'product': 'iphone11', 'name': 'Samarth tripathi', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Good performance & camera'}, {'product': 'iphone11', 'name': 'Amit Prakash', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Fast performance to previous iPhone xGood camera quality but the best part of night mode #killingI am already One-plus7Huge difference between in night mode                &iPhones 11 pro winsDisplay is also great in  #iPhone 11 proDisappointed —-You can’t be move your data android to iphone , Move to ios app not working in that case.iPhone change his USB type cable, You cant be charge your phone to power bank through this cable.... type c plug replaces USB plug'}, {'product': 'iphone11', 'name': 'shyam prakash', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Good product. Happy to buy it.'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'iPhone always rock, thanks Flipkart for such a good offer ..!!? 7star phone'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'Best apple phone I market :sign_of_the_horns_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'Awesome phone .. it makes you love it.. just go for it if you can afford it without second thoughts'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'uttam  sinha', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'product': 'iphone11', 'name': 'arpit patel', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger :OK_hand_light_skin_tone::OK_hand_light_skin_tone::OK_hand_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Akhil Bhugul', 'rating': '4', 'review_heading': 'Good quality product', 'review_full': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'product': 'iphone11', 'name': 'Siri Chandana Atluri', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'product': 'iphone11', 'name': 'Sameer Shaikh', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'product': 'iphone11', 'name': 'Vishal Hasija', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'It’s a beast, what a device... in love with it'}, {'product': 'iphone11', 'name': 'Sourabh Shah', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Nice very good phone'}, {'product': 'iphone11', 'name': 'Aravind Nath R', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'Camera and battery life s the best in this iPhone.. the os 13 very fluid .. one of the best products for Apple'}, {'product': 'iphone11', 'name': 'Aditya Mani', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'The best phone from apple loving it!'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'uttam  sinha', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'product': 'iphone11', 'name': 'arpit patel', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger :OK_hand_light_skin_tone::OK_hand_light_skin_tone::OK_hand_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Akhil Bhugul', 'rating': '4', 'review_heading': 'Good quality product', 'review_full': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'product': 'iphone11', 'name': 'Siri Chandana Atluri', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'product': 'iphone11', 'name': 'Sameer Shaikh', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'product': 'iphone11', 'name': 'Vishal Hasija', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'It’s a beast, what a device... in love with it'}, {'product': 'iphone11', 'name': 'Sourabh Shah', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Nice very good phone'}, {'product': 'iphone11', 'name': 'Aravind Nath R', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'Camera and battery life s the best in this iPhone.. the os 13 very fluid .. one of the best products for Apple'}, {'product': 'iphone11', 'name': 'Aditya Mani', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'The best phone from apple loving it!'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'uttam  sinha', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'product': 'iphone11', 'name': 'arpit patel', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger :OK_hand_light_skin_tone::OK_hand_light_skin_tone::OK_hand_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Akhil Bhugul', 'rating': '4', 'review_heading': 'Good quality product', 'review_full': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'product': 'iphone11', 'name': 'Siri Chandana Atluri', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'product': 'iphone11', 'name': 'Sameer Shaikh', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'product': 'iphone11', 'name': 'Vishal Hasija', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'It’s a beast, what a device... in love with it'}, {'product': 'iphone11', 'name': 'Sourabh Shah', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Nice very good phone'}, {'product': 'iphone11', 'name': 'Aravind Nath R', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'Camera and battery life s the best in this iPhone.. the os 13 very fluid .. one of the best products for Apple'}, {'product': 'iphone11', 'name': 'Aditya Mani', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'The best phone from apple loving it!'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Ravi Tripathi', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Superb...'}, {'product': 'iphone11', 'name': 'kangba lovejoy pungding', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'I bought during the big billion sale. It’s worth every penny. First iOS user and overwhelmed. The photos are much better than my mirror less camera. If you got the budget, go for it..... Don’t think twice.'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Great'}, {'product': 'iphone11', 'name': 'Hitik Soni', 'rating': '5', 'review_heading': 'Excellent', 'review_full': 'very good phone no complains yetoutstanding camera the videos and pictures are very great'}, {'product': 'iphone11', 'name': 'Samarth tripathi', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Good performance & camera'}, {'product': 'iphone11', 'name': 'Amit Prakash', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Fast performance to previous iPhone xGood camera quality but the best part of night mode #killingI am already One-plus7Huge difference between in night mode                &iPhones 11 pro winsDisplay is also great in  #iPhone 11 proDisappointed —-You can’t be move your data android to iphone , Move to ios app not working in that case.iPhone change his USB type cable, You cant be charge your phone to power bank through this cable.... type c plug replaces USB plug'}, {'product': 'iphone11', 'name': 'shyam prakash', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Good product. Happy to buy it.'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'iPhone always rock, thanks Flipkart for such a good offer ..!!? 7star phone'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'Best apple phone I market :sign_of_the_horns_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'Awesome phone .. it makes you love it.. just go for it if you can afford it without second thoughts'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Ravi Tripathi', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Superb...'}, {'product': 'iphone11', 'name': 'kangba lovejoy pungding', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'I bought during the big billion sale. It’s worth every penny. First iOS user and overwhelmed. The photos are much better than my mirror less camera. If you got the budget, go for it..... Don’t think twice.'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Great'}, {'product': 'iphone11', 'name': 'Hitik Soni', 'rating': '5', 'review_heading': 'Excellent', 'review_full': 'very good phone no complains yetoutstanding camera the videos and pictures are very great'}, {'product': 'iphone11', 'name': 'Samarth tripathi', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Good performance & camera'}, {'product': 'iphone11', 'name': 'Amit Prakash', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Fast performance to previous iPhone xGood camera quality but the best part of night mode #killingI am already One-plus7Huge difference between in night mode                &iPhones 11 pro winsDisplay is also great in  #iPhone 11 proDisappointed —-You can’t be move your data android to iphone , Move to ios app not working in that case.iPhone change his USB type cable, You cant be charge your phone to power bank through this cable.... type c plug replaces USB plug'}, {'product': 'iphone11', 'name': 'shyam prakash', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Good product. Happy to buy it.'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'iPhone always rock, thanks Flipkart for such a good offer ..!!? 7star phone'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'Best apple phone I market :sign_of_the_horns_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'Awesome phone .. it makes you love it.. just go for it if you can afford it without second thoughts'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'uttam  sinha', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'product': 'iphone11', 'name': 'arpit patel', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger :OK_hand_light_skin_tone::OK_hand_light_skin_tone::OK_hand_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Akhil Bhugul', 'rating': '4', 'review_heading': 'Good quality product', 'review_full': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'product': 'iphone11', 'name': 'Siri Chandana Atluri', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'product': 'iphone11', 'name': 'Sameer Shaikh', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'product': 'iphone11', 'name': 'Vishal Hasija', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'It’s a beast, what a device... in love with it'}, {'product': 'iphone11', 'name': 'Sourabh Shah', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Nice very good phone'}, {'product': 'iphone11', 'name': 'Aravind Nath R', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'Camera and battery life s the best in this iPhone.. the os 13 very fluid .. one of the best products for Apple'}, {'product': 'iphone11', 'name': 'Aditya Mani', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'The best phone from apple loving it!'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+INFO:root:unsupported operand type(s) for -: 'list' and 'int'
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:26:47] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+INFO:root:unsupported operand type(s) for -: 'list' and 'int'
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:28:39] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:28:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:28:42] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:28:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+INFO:root:unsupported operand type(s) for -: 'list' and 'int'
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:28:55] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+INFO:root:unsupported operand type(s) for -: 'list' and 'int'
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:29:37] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:32:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:32:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:32:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:32:19] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:32:19] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:32:19] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:34:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:34:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:34:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:'charmap' codec can't encode character '\u20b9' in position 18873: character maps to <undefined>
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:34:43] "POST /review HTTP/1.1" 200 -
+INFO:root:'charmap' codec can't encode character '\u20b9' in position 18873: character maps to <undefined>
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:34:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:35:00] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:35:00] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:35:00] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:35:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:35:07] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:35:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:35:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:35:14] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:35:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-293-957
+INFO:werkzeug: * Detected change in 'c:\\Users\\HP\\Downloads\\review-scrapper-aws-main-main\\review-scrapper-aws-main-main\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 127-293-957
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:42:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:42:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:42:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:'charmap' codec can't encode character '\u20b9' in position 18714: character maps to <undefined>
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:42:48] "POST /review HTTP/1.1" 200 -
+INFO:root:'charmap' codec can't encode character '\u20b9' in position 18706: character maps to <undefined>
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:42:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:42:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:42:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:42:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:'charmap' codec can't encode character '\u20b9' in position 18718: character maps to <undefined>
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:43:00] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:58:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:58:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:58:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'uttam  sinha', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'product': 'iphone11', 'name': 'arpit patel', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger :OK_hand_light_skin_tone::OK_hand_light_skin_tone::OK_hand_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Akhil Bhugul', 'rating': '4', 'review_heading': 'Good quality product', 'review_full': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'product': 'iphone11', 'name': 'Siri Chandana Atluri', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'product': 'iphone11', 'name': 'Sameer Shaikh', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'product': 'iphone11', 'name': 'Vishal Hasija', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'It’s a beast, what a device... in love with it'}, {'product': 'iphone11', 'name': 'Sourabh Shah', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Nice very good phone'}, {'product': 'iphone11', 'name': 'Aravind Nath R', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'Camera and battery life s the best in this iPhone.. the os 13 very fluid .. one of the best products for Apple'}, {'product': 'iphone11', 'name': 'Aditya Mani', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'The best phone from apple loving it!'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'uttam  sinha', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'product': 'iphone11', 'name': 'arpit patel', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger :OK_hand_light_skin_tone::OK_hand_light_skin_tone::OK_hand_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Akhil Bhugul', 'rating': '4', 'review_heading': 'Good quality product', 'review_full': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'product': 'iphone11', 'name': 'Siri Chandana Atluri', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'product': 'iphone11', 'name': 'Sameer Shaikh', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'product': 'iphone11', 'name': 'Vishal Hasija', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'It’s a beast, what a device... in love with it'}, {'product': 'iphone11', 'name': 'Sourabh Shah', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Nice very good phone'}, {'product': 'iphone11', 'name': 'Aravind Nath R', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'Camera and battery life s the best in this iPhone.. the os 13 very fluid .. one of the best products for Apple'}, {'product': 'iphone11', 'name': 'Aditya Mani', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'The best phone from apple loving it!'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+INFO:root:unsupported operand type(s) for -: 'list' and 'int'
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 18:58:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:01:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:01:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:01:06] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'iphone11', 'name': 'uttam  sinha', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'product': 'iphone11', 'name': 'arpit patel', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger :OK_hand_light_skin_tone::OK_hand_light_skin_tone::OK_hand_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Akhil Bhugul', 'rating': '4', 'review_heading': 'Good quality product', 'review_full': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'product': 'iphone11', 'name': 'Siri Chandana Atluri', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'product': 'iphone11', 'name': 'Sameer Shaikh', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'product': 'iphone11', 'name': 'Vishal Hasija', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'It’s a beast, what a device... in love with it'}, {'product': 'iphone11', 'name': 'Sourabh Shah', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Nice very good phone'}, {'product': 'iphone11', 'name': 'Aravind Nath R', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'Camera and battery life s the best in this iPhone.. the os 13 very fluid .. one of the best products for Apple'}, {'product': 'iphone11', 'name': 'Aditya Mani', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'The best phone from apple loving it!'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+INFO:root:unsupported operand type(s) for -: 'list' and 'int'
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:01:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:03:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:03:49] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:03:49] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:unsupported operand type(s) for -: 'list' and 'int'
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:03:53] "POST /review HTTP/1.1" 200 -
+INFO:root:log my final result []
+INFO:root:unsupported operand type(s) for -: 'list' and 'int'
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:04:05] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:04:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:04:08] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:04:08] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'siva sankar', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Photos super'}, {'product': 'iphone11', 'name': 'Steevan Rattra ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'Good Camera'}, {'product': 'iphone11', 'name': 'Vishnu Ramakrishnan', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Camera is awesomeBest battery backupA performer :OK_hand_light_skin_tone:It will be a real value for money if they provide charger and earphone inbox!'}, {'product': 'iphone11', 'name': 'Abhishek Sachdeva', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Feeling awesome after getting the delivery of my phone. Dual speakers makes the sound quality very loud. Amazing!!'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'This is amazing at all'}, {'product': 'iphone11', 'name': 'Manish  Deshlahare', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Very very good'}, {'product': 'iphone11', 'name': 'Sonam Lama', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'very good camera quality'}, {'product': 'iphone11', 'name': 'Dev', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :smiling_face_with_heart-eyes:'}, {'product': 'iphone11', 'name': 'Thoha P', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Value for money :black_heart::black_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Super:fire: and good performance :OK_hand::red_heart:'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'uttam  sinha', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'product': 'iphone11', 'name': 'arpit patel', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger :OK_hand_light_skin_tone::OK_hand_light_skin_tone::OK_hand_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Akhil Bhugul', 'rating': '4', 'review_heading': 'Good quality product', 'review_full': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'product': 'iphone11', 'name': 'Siri Chandana Atluri', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'product': 'iphone11', 'name': 'Sameer Shaikh', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'product': 'iphone11', 'name': 'Vishal Hasija', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'It’s a beast, what a device... in love with it'}, {'product': 'iphone11', 'name': 'Sourabh Shah', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Nice very good phone'}, {'product': 'iphone11', 'name': 'Aravind Nath R', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'Camera and battery life s the best in this iPhone.. the os 13 very fluid .. one of the best products for Apple'}, {'product': 'iphone11', 'name': 'Aditya Mani', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'The best phone from apple loving it!'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'uttam  sinha', 'rating': '5', 'review_heading': 'Highly recommended', 'review_full': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'product': 'iphone11', 'name': 'arpit patel', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger :OK_hand_light_skin_tone::OK_hand_light_skin_tone::OK_hand_light_skin_tone:'}, {'product': 'iphone11', 'name': 'Akhil Bhugul', 'rating': '4', 'review_heading': 'Good quality product', 'review_full': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'product': 'iphone11', 'name': 'Siri Chandana Atluri', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'product': 'iphone11', 'name': 'Sameer Shaikh', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'product': 'iphone11', 'name': 'Vishal Hasija', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'It’s a beast, what a device... in love with it'}, {'product': 'iphone11', 'name': 'Sourabh Shah', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': 'Nice very good phone'}, {'product': 'iphone11', 'name': 'Aravind Nath R', 'rating': '5', 'review_heading': 'Must buy!', 'review_full': 'Camera and battery life s the best in this iPhone.. the os 13 very fluid .. one of the best products for Apple'}, {'product': 'iphone11', 'name': 'Aditya Mani', 'rating': '5', 'review_heading': 'Great product', 'review_full': 'The best phone from apple loving it!'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+INFO:root:unsupported operand type(s) for -: 'list' and 'int'
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:04:16] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:12:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:12:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:12:13] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+INFO:root:unsupported operand type(s) for -: 'list' and 'int'
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:12:23] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:13:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:13:26] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:13:26] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Krupal Patel', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Flipkart Customer', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'iphone11', 'name': 'Sakshi Bharti', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+INFO:root:render_template() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:13:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:cannot access local variable 'name' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:20] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:24] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:24] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+ERROR:app:Exception on /review [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:28] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:cannot access local variable 'name' where it is not associated with a value
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:15:48] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:17:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:17:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:17:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Ravi  J ', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+ERROR:app:Exception on /review [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:17:41] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:17:46] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:17:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:17:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:26:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:26:43] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:26:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'samsunga11', 'name': 'Uday Koshti', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Amazing phone'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '1', 'review_heading': "Don't waste your money", 'review_full': "Succesfully wasted money on this product this phone has display problem and this manufacture warranty no use I had a problem with display but samsung says that's ur fault better move to another phone this phone is waste of money"}, {'product': 'samsunga11', 'name': 'Rincy  Sachan ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'I like it'}, {'product': 'samsunga11', 'name': 'Shrey Yadu', 'rating': '5', 'review_heading': 'Terrific', 'review_full': "It's definitely a head turner.I've been using it for a week now. And it did heat a lot in first 2days of use. But now this doesn't happen anymore. Battery is not upto the mark but I'm an average user so it lasts a day for me. Charging speed is the biggest drawback as it supports just 15W fast charging which takes approx 2hrs to charge it from 0 to 100.Display is amazing and touch is superfluid just like any other samsung flagship phone.Camera is amazing and crisp. Colours are close t..."}, {'product': 'samsunga11', 'name': 'Deepak chawla', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'What a Phone My Samsung..! When You Want something different in your Hand.'}, {'product': 'samsunga11', 'name': 'Hrishikesh  Kumar', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Just wow...Display, camera, processor, refresh rate all very good. Cons:- battery drains out fast if you are using continuously, only 15W fast chargeWill suggest to buy'}, {'product': 'samsunga11', 'name': 'Indranil Chatterjee', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Still it is a class in performance gadget and value for money ..Thank you Flipkart for one day delivery .'}, {'product': 'samsunga11', 'name': 'C s Baiju', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'I just say wow :OK_hand: excellent performance gud camera...but only I disappointed by battery backup. Other ways is good'}, {'product': 'samsunga11', 'name': 'SkGolam Mustafa', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'I love it , amazing camera, monster performance,  battery little disappointing'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Very nice beautiful Samsung z flip3'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Uday Koshti', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Amazing phone'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '1', 'review_heading': "Don't waste your money", 'review_full': "Succesfully wasted money on this product this phone has display problem and this manufacture warranty no use I had a problem with display but samsung says that's ur fault better move to another phone this phone is waste of money"}, {'product': 'samsunga11', 'name': 'Rincy  Sachan ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'I like it'}, {'product': 'samsunga11', 'name': 'Shrey Yadu', 'rating': '5', 'review_heading': 'Terrific', 'review_full': "It's definitely a head turner.I've been using it for a week now. And it did heat a lot in first 2days of use. But now this doesn't happen anymore. Battery is not upto the mark but I'm an average user so it lasts a day for me. Charging speed is the biggest drawback as it supports just 15W fast charging which takes approx 2hrs to charge it from 0 to 100.Display is amazing and touch is superfluid just like any other samsung flagship phone.Camera is amazing and crisp. Colours are close t..."}, {'product': 'samsunga11', 'name': 'Deepak chawla', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'What a Phone My Samsung..! When You Want something different in your Hand.'}, {'product': 'samsunga11', 'name': 'Hrishikesh  Kumar', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Just wow...Display, camera, processor, refresh rate all very good. Cons:- battery drains out fast if you are using continuously, only 15W fast chargeWill suggest to buy'}, {'product': 'samsunga11', 'name': 'Indranil Chatterjee', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Still it is a class in performance gadget and value for money ..Thank you Flipkart for one day delivery .'}, {'product': 'samsunga11', 'name': 'C s Baiju', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'I just say wow :OK_hand: excellent performance gud camera...but only I disappointed by battery backup. Other ways is good'}, {'product': 'samsunga11', 'name': 'SkGolam Mustafa', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'I love it , amazing camera, monster performance,  battery little disappointing'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Very nice beautiful Samsung z flip3'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Abhishek  Singh ', 'rating': '4', 'review_heading': 'Really Nice', 'review_full': 'Samsung a52 is lovely'}, {'product': 'samsunga11', 'name': 'ASHAR TK Theyyambadi kannoth', 'rating': '4', 'review_heading': 'Delightful', 'review_full': 'Good'}, {'product': 'samsunga11', 'name': 'Bhanu Pratap', 'rating': '5', 'review_heading': 'Awesome', 'review_full': 'Nice Phone, Battery is something you might not feel good, but overall a Good Phone.'}, {'product': 'samsunga11', 'name': 'Chandrashekhar Tonpe ', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'Loved the design, quality, performance, feels rich while handling, and really  appreciate that samsung  had improved a lot for the user experience. E.g. performance, battery management has been improved a lot. Feels premium device. Easy and Smooth interface. I loved :smiling_face_with_heart-eyes:it and would recommend to my friends and family!'}, {'product': 'samsunga11', 'name': 'Prakash Behara', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Awesome'}, {'product': 'samsunga11', 'name': 'Sanju Nair', 'rating': '5', 'review_heading': 'Excellent', 'review_full': 'Great phone!!!! From samsung'}, {'product': 'samsunga11', 'name': 'Vishal Bhondwe', 'rating': '4', 'review_heading': 'Wonderful', 'review_full': 'Camera is decent but macro mode is not enough good, so request to Samsung, please improve the macro lens:folded_hands:Over all phone is giving flagship level performance in midrange price segment:thumbs_up:'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Excellent', 'review_full': 'Good one. Nice camera. battery will last for a day. Good network reception. Update after 7 days of usage: Absolutely great phone. The camera great.'}, {'product': 'samsunga11', 'name': 'Indhuja Prabhu', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'Superb mobile. mind blowing performance.. totally I am impressed'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '4', 'review_heading': 'Pretty good', 'review_full': 'This is amazing Value for money phone, go for it'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Uday Koshti', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Amazing phone'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '1', 'review_heading': "Don't waste your money", 'review_full': "Succesfully wasted money on this product this phone has display problem and this manufacture warranty no use I had a problem with display but samsung says that's ur fault better move to another phone this phone is waste of money"}, {'product': 'samsunga11', 'name': 'Rincy  Sachan ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'I like it'}, {'product': 'samsunga11', 'name': 'Shrey Yadu', 'rating': '5', 'review_heading': 'Terrific', 'review_full': "It's definitely a head turner.I've been using it for a week now. And it did heat a lot in first 2days of use. But now this doesn't happen anymore. Battery is not upto the mark but I'm an average user so it lasts a day for me. Charging speed is the biggest drawback as it supports just 15W fast charging which takes approx 2hrs to charge it from 0 to 100.Display is amazing and touch is superfluid just like any other samsung flagship phone.Camera is amazing and crisp. Colours are close t..."}, {'product': 'samsunga11', 'name': 'Deepak chawla', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'What a Phone My Samsung..! When You Want something different in your Hand.'}, {'product': 'samsunga11', 'name': 'Hrishikesh  Kumar', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Just wow...Display, camera, processor, refresh rate all very good. Cons:- battery drains out fast if you are using continuously, only 15W fast chargeWill suggest to buy'}, {'product': 'samsunga11', 'name': 'Indranil Chatterjee', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Still it is a class in performance gadget and value for money ..Thank you Flipkart for one day delivery .'}, {'product': 'samsunga11', 'name': 'C s Baiju', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'I just say wow :OK_hand: excellent performance gud camera...but only I disappointed by battery backup. Other ways is good'}, {'product': 'samsunga11', 'name': 'SkGolam Mustafa', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'I love it , amazing camera, monster performance,  battery little disappointing'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Very nice beautiful Samsung z flip3'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+ERROR:app:Exception on /review [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:26:58] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:28:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:28:23] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:28:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'samsunga11', 'name': 'Uday Koshti', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Amazing phone'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '1', 'review_heading': "Don't waste your money", 'review_full': "Succesfully wasted money on this product this phone has display problem and this manufacture warranty no use I had a problem with display but samsung says that's ur fault better move to another phone this phone is waste of money"}, {'product': 'samsunga11', 'name': 'Rincy  Sachan ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'I like it'}, {'product': 'samsunga11', 'name': 'Shrey Yadu', 'rating': '5', 'review_heading': 'Terrific', 'review_full': "It's definitely a head turner.I've been using it for a week now. And it did heat a lot in first 2days of use. But now this doesn't happen anymore. Battery is not upto the mark but I'm an average user so it lasts a day for me. Charging speed is the biggest drawback as it supports just 15W fast charging which takes approx 2hrs to charge it from 0 to 100.Display is amazing and touch is superfluid just like any other samsung flagship phone.Camera is amazing and crisp. Colours are close t..."}, {'product': 'samsunga11', 'name': 'Deepak chawla', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'What a Phone My Samsung..! When You Want something different in your Hand.'}, {'product': 'samsunga11', 'name': 'Hrishikesh  Kumar', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Just wow...Display, camera, processor, refresh rate all very good. Cons:- battery drains out fast if you are using continuously, only 15W fast chargeWill suggest to buy'}, {'product': 'samsunga11', 'name': 'Indranil Chatterjee', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Still it is a class in performance gadget and value for money ..Thank you Flipkart for one day delivery .'}, {'product': 'samsunga11', 'name': 'C s Baiju', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'I just say wow :OK_hand: excellent performance gud camera...but only I disappointed by battery backup. Other ways is good'}, {'product': 'samsunga11', 'name': 'SkGolam Mustafa', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'I love it , amazing camera, monster performance,  battery little disappointing'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Very nice beautiful Samsung z flip3'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Uday Koshti', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Amazing phone'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '1', 'review_heading': "Don't waste your money", 'review_full': "Succesfully wasted money on this product this phone has display problem and this manufacture warranty no use I had a problem with display but samsung says that's ur fault better move to another phone this phone is waste of money"}, {'product': 'samsunga11', 'name': 'Rincy  Sachan ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'I like it'}, {'product': 'samsunga11', 'name': 'Shrey Yadu', 'rating': '5', 'review_heading': 'Terrific', 'review_full': "It's definitely a head turner.I've been using it for a week now. And it did heat a lot in first 2days of use. But now this doesn't happen anymore. Battery is not upto the mark but I'm an average user so it lasts a day for me. Charging speed is the biggest drawback as it supports just 15W fast charging which takes approx 2hrs to charge it from 0 to 100.Display is amazing and touch is superfluid just like any other samsung flagship phone.Camera is amazing and crisp. Colours are close t..."}, {'product': 'samsunga11', 'name': 'Deepak chawla', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'What a Phone My Samsung..! When You Want something different in your Hand.'}, {'product': 'samsunga11', 'name': 'Hrishikesh  Kumar', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Just wow...Display, camera, processor, refresh rate all very good. Cons:- battery drains out fast if you are using continuously, only 15W fast chargeWill suggest to buy'}, {'product': 'samsunga11', 'name': 'Indranil Chatterjee', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Still it is a class in performance gadget and value for money ..Thank you Flipkart for one day delivery .'}, {'product': 'samsunga11', 'name': 'C s Baiju', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'I just say wow :OK_hand: excellent performance gud camera...but only I disappointed by battery backup. Other ways is good'}, {'product': 'samsunga11', 'name': 'SkGolam Mustafa', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'I love it , amazing camera, monster performance,  battery little disappointing'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Very nice beautiful Samsung z flip3'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Abhishek  Singh ', 'rating': '4', 'review_heading': 'Really Nice', 'review_full': 'Samsung a52 is lovely'}, {'product': 'samsunga11', 'name': 'ASHAR TK Theyyambadi kannoth', 'rating': '4', 'review_heading': 'Delightful', 'review_full': 'Good'}, {'product': 'samsunga11', 'name': 'Bhanu Pratap', 'rating': '5', 'review_heading': 'Awesome', 'review_full': 'Nice Phone, Battery is something you might not feel good, but overall a Good Phone.'}, {'product': 'samsunga11', 'name': 'Chandrashekhar Tonpe ', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'Loved the design, quality, performance, feels rich while handling, and really  appreciate that samsung  had improved a lot for the user experience. E.g. performance, battery management has been improved a lot. Feels premium device. Easy and Smooth interface. I loved :smiling_face_with_heart-eyes:it and would recommend to my friends and family!'}, {'product': 'samsunga11', 'name': 'Prakash Behara', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Awesome'}, {'product': 'samsunga11', 'name': 'Sanju Nair', 'rating': '5', 'review_heading': 'Excellent', 'review_full': 'Great phone!!!! From samsung'}, {'product': 'samsunga11', 'name': 'Vishal Bhondwe', 'rating': '4', 'review_heading': 'Wonderful', 'review_full': 'Camera is decent but macro mode is not enough good, so request to Samsung, please improve the macro lens:folded_hands:Over all phone is giving flagship level performance in midrange price segment:thumbs_up:'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Excellent', 'review_full': 'Good one. Nice camera. battery will last for a day. Good network reception. Update after 7 days of usage: Absolutely great phone. The camera great.'}, {'product': 'samsunga11', 'name': 'Indhuja Prabhu', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'Superb mobile. mind blowing performance.. totally I am impressed'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '4', 'review_heading': 'Pretty good', 'review_full': 'This is amazing Value for money phone, go for it'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Barun ....', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Nice product'}, {'product': 'samsunga11', 'name': 'Anand Pal', 'rating': '4', 'review_heading': 'Very Good', 'review_full': 'Very nice'}, {'product': 'samsunga11', 'name': '\u0905\u092e\u093f\u0924 \u0917\u0941\u092a\u094d\u0924\u093e', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Very good'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Good'}, {'product': 'samsunga11', 'name': 'Akash Kashyap', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Very nice phone and battery life very good. This product is very :slightly_smiling_face:.'}, {'product': 'samsunga11', 'name': 'ABHISHEK  AD ', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'Good for this price'}, {'product': 'samsunga11', 'name': 'Shirsa Bachhar', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'A really nice product from Samsung in such a least price...thanks flipkart'}, {'product': 'samsunga11', 'name': 'Sheela  Biju', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Wow great !!'}, {'product': 'samsunga11', 'name': 'Lipika Sen', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Really good'}, {'product': 'samsunga11', 'name': 'Ravi  J ', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': "This is a good back-up, second in command mobile phone to have. It is heavy so works better as an at-home phone. The big battery life is an asset for a bluetooth music experience or for movies. It's perfect for functionality and internet app efficiency. The screen is a compromise because it is not  Amoled. This is LCD. It's a great phone as a 2nd phone at home. Not expensive at all."}, {'product': 'samsunga11', 'name': 'Ravi  J ', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Uday Koshti', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Amazing phone'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '1', 'review_heading': "Don't waste your money", 'review_full': "Succesfully wasted money on this product this phone has display problem and this manufacture warranty no use I had a problem with display but samsung says that's ur fault better move to another phone this phone is waste of money"}, {'product': 'samsunga11', 'name': 'Rincy  Sachan ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'I like it'}, {'product': 'samsunga11', 'name': 'Shrey Yadu', 'rating': '5', 'review_heading': 'Terrific', 'review_full': "It's definitely a head turner.I've been using it for a week now. And it did heat a lot in first 2days of use. But now this doesn't happen anymore. Battery is not upto the mark but I'm an average user so it lasts a day for me. Charging speed is the biggest drawback as it supports just 15W fast charging which takes approx 2hrs to charge it from 0 to 100.Display is amazing and touch is superfluid just like any other samsung flagship phone.Camera is amazing and crisp. Colours are close t..."}, {'product': 'samsunga11', 'name': 'Deepak chawla', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'What a Phone My Samsung..! When You Want something different in your Hand.'}, {'product': 'samsunga11', 'name': 'Hrishikesh  Kumar', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Just wow...Display, camera, processor, refresh rate all very good. Cons:- battery drains out fast if you are using continuously, only 15W fast chargeWill suggest to buy'}, {'product': 'samsunga11', 'name': 'Indranil Chatterjee', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Still it is a class in performance gadget and value for money ..Thank you Flipkart for one day delivery .'}, {'product': 'samsunga11', 'name': 'C s Baiju', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'I just say wow :OK_hand: excellent performance gud camera...but only I disappointed by battery backup. Other ways is good'}, {'product': 'samsunga11', 'name': 'SkGolam Mustafa', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'I love it , amazing camera, monster performance,  battery little disappointing'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Very nice beautiful Samsung z flip3'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+INFO:root:'charmap' codec can't encode characters in position 7978-7981: character maps to <undefined>
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:28:32] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:29:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:29:54] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:29:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:log my final result [{'product': 'samsunga11', 'name': 'Uday Koshti', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Amazing phone'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '1', 'review_heading': "Don't waste your money", 'review_full': "Succesfully wasted money on this product this phone has display problem and this manufacture warranty no use I had a problem with display but samsung says that's ur fault better move to another phone this phone is waste of money"}, {'product': 'samsunga11', 'name': 'Rincy  Sachan ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'I like it'}, {'product': 'samsunga11', 'name': 'Shrey Yadu', 'rating': '5', 'review_heading': 'Terrific', 'review_full': "It's definitely a head turner.I've been using it for a week now. And it did heat a lot in first 2days of use. But now this doesn't happen anymore. Battery is not upto the mark but I'm an average user so it lasts a day for me. Charging speed is the biggest drawback as it supports just 15W fast charging which takes approx 2hrs to charge it from 0 to 100.Display is amazing and touch is superfluid just like any other samsung flagship phone.Camera is amazing and crisp. Colours are close t..."}, {'product': 'samsunga11', 'name': 'Deepak chawla', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'What a Phone My Samsung..! When You Want something different in your Hand.'}, {'product': 'samsunga11', 'name': 'Hrishikesh  Kumar', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Just wow...Display, camera, processor, refresh rate all very good. Cons:- battery drains out fast if you are using continuously, only 15W fast chargeWill suggest to buy'}, {'product': 'samsunga11', 'name': 'Indranil Chatterjee', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Still it is a class in performance gadget and value for money ..Thank you Flipkart for one day delivery .'}, {'product': 'samsunga11', 'name': 'C s Baiju', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'I just say wow :OK_hand: excellent performance gud camera...but only I disappointed by battery backup. Other ways is good'}, {'product': 'samsunga11', 'name': 'SkGolam Mustafa', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'I love it , amazing camera, monster performance,  battery little disappointing'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Very nice beautiful Samsung z flip3'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Uday Koshti', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Amazing phone'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '1', 'review_heading': "Don't waste your money", 'review_full': "Succesfully wasted money on this product this phone has display problem and this manufacture warranty no use I had a problem with display but samsung says that's ur fault better move to another phone this phone is waste of money"}, {'product': 'samsunga11', 'name': 'Rincy  Sachan ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'I like it'}, {'product': 'samsunga11', 'name': 'Shrey Yadu', 'rating': '5', 'review_heading': 'Terrific', 'review_full': "It's definitely a head turner.I've been using it for a week now. And it did heat a lot in first 2days of use. But now this doesn't happen anymore. Battery is not upto the mark but I'm an average user so it lasts a day for me. Charging speed is the biggest drawback as it supports just 15W fast charging which takes approx 2hrs to charge it from 0 to 100.Display is amazing and touch is superfluid just like any other samsung flagship phone.Camera is amazing and crisp. Colours are close t..."}, {'product': 'samsunga11', 'name': 'Deepak chawla', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'What a Phone My Samsung..! When You Want something different in your Hand.'}, {'product': 'samsunga11', 'name': 'Hrishikesh  Kumar', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Just wow...Display, camera, processor, refresh rate all very good. Cons:- battery drains out fast if you are using continuously, only 15W fast chargeWill suggest to buy'}, {'product': 'samsunga11', 'name': 'Indranil Chatterjee', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Still it is a class in performance gadget and value for money ..Thank you Flipkart for one day delivery .'}, {'product': 'samsunga11', 'name': 'C s Baiju', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'I just say wow :OK_hand: excellent performance gud camera...but only I disappointed by battery backup. Other ways is good'}, {'product': 'samsunga11', 'name': 'SkGolam Mustafa', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'I love it , amazing camera, monster performance,  battery little disappointing'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Very nice beautiful Samsung z flip3'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Abhishek  Singh ', 'rating': '4', 'review_heading': 'Really Nice', 'review_full': 'Samsung a52 is lovely'}, {'product': 'samsunga11', 'name': 'ASHAR TK Theyyambadi kannoth', 'rating': '4', 'review_heading': 'Delightful', 'review_full': 'Good'}, {'product': 'samsunga11', 'name': 'Bhanu Pratap', 'rating': '5', 'review_heading': 'Awesome', 'review_full': 'Nice Phone, Battery is something you might not feel good, but overall a Good Phone.'}, {'product': 'samsunga11', 'name': 'Chandrashekhar Tonpe ', 'rating': '5', 'review_heading': 'Brilliant', 'review_full': 'Loved the design, quality, performance, feels rich while handling, and really  appreciate that samsung  had improved a lot for the user experience. E.g. performance, battery management has been improved a lot. Feels premium device. Easy and Smooth interface. I loved :smiling_face_with_heart-eyes:it and would recommend to my friends and family!'}, {'product': 'samsunga11', 'name': 'Prakash Behara', 'rating': '5', 'review_heading': 'Mind-blowing purchase', 'review_full': 'Awesome'}, {'product': 'samsunga11', 'name': 'Sanju Nair', 'rating': '5', 'review_heading': 'Excellent', 'review_full': 'Great phone!!!! From samsung'}, {'product': 'samsunga11', 'name': 'Vishal Bhondwe', 'rating': '4', 'review_heading': 'Wonderful', 'review_full': 'Camera is decent but macro mode is not enough good, so request to Samsung, please improve the macro lens:folded_hands:Over all phone is giving flagship level performance in midrange price segment:thumbs_up:'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Excellent', 'review_full': 'Good one. Nice camera. battery will last for a day. Good network reception. Update after 7 days of usage: Absolutely great phone. The camera great.'}, {'product': 'samsunga11', 'name': 'Indhuja Prabhu', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'Superb mobile. mind blowing performance.. totally I am impressed'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '4', 'review_heading': 'Pretty good', 'review_full': 'This is amazing Value for money phone, go for it'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Barun ....', 'rating': '5', 'review_heading': 'Fabulous!', 'review_full': 'Nice product'}, {'product': 'samsunga11', 'name': 'Anand Pal', 'rating': '4', 'review_heading': 'Very Good', 'review_full': 'Very nice'}, {'product': 'samsunga11', 'name': '\u0905\u092e\u093f\u0924 \u0917\u0941\u092a\u094d\u0924\u093e', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Very good'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Good'}, {'product': 'samsunga11', 'name': 'Akash Kashyap', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Very nice phone and battery life very good. This product is very :slightly_smiling_face:.'}, {'product': 'samsunga11', 'name': 'ABHISHEK  AD ', 'rating': '5', 'review_heading': 'Wonderful', 'review_full': 'Good for this price'}, {'product': 'samsunga11', 'name': 'Shirsa Bachhar', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'A really nice product from Samsung in such a least price...thanks flipkart'}, {'product': 'samsunga11', 'name': 'Sheela  Biju', 'rating': '5', 'review_heading': 'Classy product', 'review_full': 'Wow great !!'}, {'product': 'samsunga11', 'name': 'Lipika Sen', 'rating': '5', 'review_heading': 'Perfect product!', 'review_full': 'Really good'}, {'product': 'samsunga11', 'name': 'Ravi  J ', 'rating': '5', 'review_heading': 'Terrific purchase', 'review_full': "This is a good back-up, second in command mobile phone to have. It is heavy so works better as an at-home phone. The big battery life is an asset for a bluetooth music experience or for movies. It's perfect for functionality and internet app efficiency. The screen is a compromise because it is not  Amoled. This is LCD. It's a great phone as a 2nd phone at home. Not expensive at all."}, {'product': 'samsunga11', 'name': 'Ravi  J ', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}, {'product': 'samsunga11', 'name': 'Uday Koshti', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Amazing phone'}, {'product': 'samsunga11', 'name': 'Flipkart Customer', 'rating': '1', 'review_heading': "Don't waste your money", 'review_full': "Succesfully wasted money on this product this phone has display problem and this manufacture warranty no use I had a problem with display but samsung says that's ur fault better move to another phone this phone is waste of money"}, {'product': 'samsunga11', 'name': 'Rincy  Sachan ', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'I like it'}, {'product': 'samsunga11', 'name': 'Shrey Yadu', 'rating': '5', 'review_heading': 'Terrific', 'review_full': "It's definitely a head turner.I've been using it for a week now. And it did heat a lot in first 2days of use. But now this doesn't happen anymore. Battery is not upto the mark but I'm an average user so it lasts a day for me. Charging speed is the biggest drawback as it supports just 15W fast charging which takes approx 2hrs to charge it from 0 to 100.Display is amazing and touch is superfluid just like any other samsung flagship phone.Camera is amazing and crisp. Colours are close t..."}, {'product': 'samsunga11', 'name': 'Deepak chawla', 'rating': '5', 'review_heading': 'Best in the market!', 'review_full': 'What a Phone My Samsung..! When You Want something different in your Hand.'}, {'product': 'samsunga11', 'name': 'Hrishikesh  Kumar', 'rating': '5', 'review_heading': 'Terrific', 'review_full': 'Just wow...Display, camera, processor, refresh rate all very good. Cons:- battery drains out fast if you are using continuously, only 15W fast chargeWill suggest to buy'}, {'product': 'samsunga11', 'name': 'Indranil Chatterjee', 'rating': '5', 'review_heading': 'Just wow!', 'review_full': 'Still it is a class in performance gadget and value for money ..Thank you Flipkart for one day delivery .'}, {'product': 'samsunga11', 'name': 'C s Baiju', 'rating': '5', 'review_heading': 'Super!', 'review_full': 'I just say wow :OK_hand: excellent performance gud camera...but only I disappointed by battery backup. Other ways is good'}, {'product': 'samsunga11', 'name': 'SkGolam Mustafa', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'I love it , amazing camera, monster performance,  battery little disappointing'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': '5', 'review_heading': 'Worth every penny', 'review_full': 'Very nice beautiful Samsung z flip3'}, {'product': 'samsunga11', 'name': 'Rakesh  Dod', 'rating': 'No rating', 'review_heading': 'No review_heading', 'review_full': 'No review_full'}]
+INFO:root:'charmap' codec can't encode characters in position 7978-7981: character maps to <undefined>
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:30:02] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:31:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:31:33] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:31:33] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+ERROR:app:Exception on /review [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:31:41] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:34:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:34:56] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:34:56] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:35:06] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:35:06] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:37:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:37:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:37:29] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+ERROR:app:Exception on /review [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:37:40] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:50:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:50:11] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:50:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /review [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:50:20] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /review [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:50:38] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:50:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:50:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:50:41] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+ERROR:app:Exception on /review [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:50:48] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:52:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:52:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:52:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:'charmap' codec can't encode characters in position 7978-7981: character maps to <undefined>
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:52:37] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:53:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:53:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:53:55] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:'charmap' codec can't encode characters in position 7978-7981: character maps to <undefined>
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:54:05] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:54:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:54:38] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:54:38] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:'charmap' codec can't encode characters in position 7978-7981: character maps to <undefined>
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:54:46] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:56:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:56:15] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:56:15] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+ERROR:app:Exception on /review [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:56:24] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:58:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:58:10] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:58:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+ERROR:app:Exception on /review [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 19:58:18] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:05:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:05:14] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:05:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+ERROR:app:Exception on /review [POST]
+Traceback (most recent call last):
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1487, in full_dispatch_request
+    return self.finalize_request(rv)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1506, in finalize_request
+    response = self.make_response(rv)
+               ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python311\Lib\site-packages\flask\app.py", line 1801, in make_response
+    raise TypeError(
+TypeError: The view function for 'index' did not return a valid response. The function either returned None or ended without a return statement.
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:05:24] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:06:37] "GET /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:06:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:06:37] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:render_template() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:06:48] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:07:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:07:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:07:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:render_template() takes 1 positional argument but 2 were given
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:07:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:09:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:09:25] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:09:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:09:34] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:09:34] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:09:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:10:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:10:05] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:10:05] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:10:13] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:10:13] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:10:13] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:14] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:14] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:14] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:28] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:14:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:root:name
+INFO:root:rating
+INFO:root:No review_heading
+INFO:root:No review_full
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:15:10] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:15:10] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [19/Dec/2023 20:15:10] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
