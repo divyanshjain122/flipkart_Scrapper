@@ -72,7 +72,7 @@ def index():
             # print (product_soup.prettify(encoding='utf-8')) ############### this line nessesary to prevent error###############
                 comment_box_list=product_soup.find_all('div',{"class":"_16PBlm"})
                 print(len(comment_box_list))
-          ##################################stores in csv file all comments of a perticular product#################################
+          ##################################stores revievs all comments of a perticular product#################################
             
                 for comment_box in comment_box_list:
                     try:
@@ -110,7 +110,7 @@ def index():
             try:
                 print(reviews)
             except:
-                print("kuvhbhi")
+                print("error in list of dictionaries reviews")
             # try :
                 
             return render_template('result.html',reviews=reviews) 
